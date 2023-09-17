@@ -6,7 +6,7 @@
 
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со школы, где я решил попробовать создать своё собственное приложение. Во время школы, я изучал C#, Python, а также пробовал себя в веб разработке. Но больше всего меня привлекла игровая индустрия. И на данный момент я уже имею один готовый проект, а так же разрабатываю!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Svyatoslav-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zelenaferma33@gmail.com)
 
 ---
 
