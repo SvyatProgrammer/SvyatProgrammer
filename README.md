@@ -83,7 +83,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/SvyatProgrammer/badges/large)
 
 ### ⚙️ GitHub статистика:
 
