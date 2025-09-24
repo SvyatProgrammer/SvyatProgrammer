@@ -2,21 +2,21 @@
 <tr>
 <td>
 
-# Привет 👋, меня зовут Свят!  
+# Hi 👋, I'm Svyat!  
 
 🎮 **Unity Developer** | 💻 **C# Developer**  
 
 ---
 
-### 🚀 Обо мне  
-- 📚 Учусь и развиваюсь как Unity-разработчик  
-- 🧩 Создаю проекты для портфолио  
-- 💼 Ищу работу/стажировку в геймдеве  
-- 🔥 Люблю создавать игры и экспериментировать с технологиями  
+### 🚀 About Me  
+- 📚 Learning and growing as a Unity developer  
+- 🧩 Creating projects for my portfolio  
+- 💼 Looking for internships or job opportunities in game development  
+- 🔥 Passionate about making games and experimenting with technologies  
 
 ---
 
-### 🛠 Навыки  
+### 🛠 Skills  
 - 🟦 Unity  
 - 💻 C#  
 - ☁️ Firebase  
@@ -24,21 +24,21 @@
 
 ---
 
-### 🎮 Проекты  
+### 🎮 Projects  
 
 - [**AxiumOverlay**](https://github.com/SvyatProgrammer/AxiumOverlay)  
-  Оверлэй для взаимодействия между игрой и Axium (Launcher).  
-  _Технологии: Unity, C#, Firebase, JsonUtility_  
+  Overlay for interaction between a game and Axium (Launcher).  
+  _Technologies: Unity, C#, Firebase, JsonUtility_  
 
 - [**CookieClicker**](https://github.com/SvyatProgrammer/CookieClicker)  
-  Игра про добычу печенек и развитие фабрики.  
-  _Технологии: Unity, C#, AxiumAPI, ShaderGraph_  
+  Game about cookie collection and factory development.  
+  _Technologies: Unity, C#, AxiumAPI, ShaderGraph_  
 
-- [**Игры на itch.io**](https://axium-studio.itch.io/)  
+- [**Games on itch.io**](https://axium-studio.itch.io/)  
 
 ---
 
-### 🌍 Социальные сети  
+### 🌍 Contact  
 [![Telegram Badge](https://img.shields.io/badge/-@iamsvyat1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iamsvyat1)  
 [![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://axium-studio.itch.io/)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svyatoslau-efimovich/)  
