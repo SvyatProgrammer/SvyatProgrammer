@@ -42,7 +42,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@iamsvyat1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/iamsvyat1)  
 [![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://axium-studio.itch.io/)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svyatoslau-efimovich/)  
-[📧 Email](mailto:zelenaferma33@gmail.com)  
+[📧 Email](mailto:svyatoslauefimovich@gmail.com)  
 
 </td>
 </tr>
