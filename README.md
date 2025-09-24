@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td>
-
 # Hi 👋, I'm Svyat!  
 
 🎮 **Unity Developer** | 💻 **C# Developer**  
@@ -43,7 +39,3 @@
 [![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://axium-studio.itch.io/)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svyatoslau-efimovich/)  
 [📧 Email](mailto:svyatoslauefimovich@gmail.com)  
-
-</td>
-</tr>
-</table>
